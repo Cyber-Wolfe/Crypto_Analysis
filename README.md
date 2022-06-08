@@ -1,4 +1,4 @@
-# Analysis of different Currencies
+# Analysis of Crypto Currencies
 
 ## Purpose
 The task was to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped for classification for potential investing. 
