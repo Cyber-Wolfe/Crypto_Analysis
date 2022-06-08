@@ -35,7 +35,7 @@ The Clustered_Df was then used for a 3D scatter plot:
 
 Lastly, the TotalCoinSupply and TotalCoinsMined columns were scaled and fit transformed to fit a new DataFrame to be used for our final Hvplot:
 
-![Coins_Mined_Coins_Supplied](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/3D_scatter_plot.PNG)
+![Coins_Mined_Coins_Supplied](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/Coins_Mined_Coins_Supplied.PNG)
 
 HVPlot:
 
