@@ -14,7 +14,7 @@ What was done initially to the dataset was cleaning:
 * Making sure coins have been mined from this Crypto.
 * Splitting "CoinName" column from the main DataFrame to its own.
 
-![Cleaned_Dataframe](https://cyber-wolfe.github.io/UFO_Sightings/)
+![Cleaned_Dataframe](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/Cleaned_Dataframe.PNG)
 
 Next was setting "ProofType" and "Algorithm" to dummy data for the sake of using the data for machine-learning.
 
