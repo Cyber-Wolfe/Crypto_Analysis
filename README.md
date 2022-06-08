@@ -17,16 +17,29 @@ What was done initially to the dataset was cleaning:
 ![Cleaned_Dataframe](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/Cleaned_Dataframe.PNG)
 
 Next was setting "ProofType" and "Algorithm" to dummy data for the sake of using the data for machine-learning.
+The data was then set to a scaler, fitted and transformed then reduced with Principal-Component-Analysis to three components and then renamed for the ease of reading as such:
 
-The data was set to a scaler, fit_transformed and then reduced with Principal-Component-Analysis to three components and then renamed for the ease of reading as such:
+![PCA_Conversion](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/PCA_Conversion.PNG)
 
-Next was acquiring the Kmeans so we can have the dataset placed into an Elbow curve:
+Next was acquiring the K-Means so we can have the dataset placed into an Elbow curve for more data manipulation:
+
+![Elbow_Curve](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/Elbow_Curve.PNG)
 
 Then the CoinName and PC data were placed back into the cleaned set for clustering:
 
+![Clustered_Df](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/Clustered_Df.PNG)
+
 The Clustered_Df was then used for a 3D scatter plot:
 
+![3D_scatter_plot](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/3D_scatter_plot.PNG)
+
 Lastly, the TotalCoinSupply and TotalCoinsMined columns were scaled and fit transformed to fit a new DataFrame to be used for our final Hvplot:
+
+![Coins_Mined_Coins_Supplied](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/3D_scatter_plot.PNG)
+
+HVPlot:
+
+![Coins_Mined_Coins_Supplied_Plot](https://github.com/Cyber-Wolfe/Crypto_Analysis/blob/main/Captures/Coins_Mined_Coins_Supplied_Plot.PNG)
 
 ## Conclusion
 
