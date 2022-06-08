@@ -14,6 +14,8 @@ What was done initially to the dataset was cleaning:
 * Making sure coins have been mined from this Crypto.
 * Splitting "CoinName" column from the main DataFrame to its own.
 
+![Cleaned_Dataframe](https://cyber-wolfe.github.io/UFO_Sightings/)
+
 Next was setting "ProofType" and "Algorithm" to dummy data for the sake of using the data for machine-learning.
 
 The data was set to a scaler, fit_transformed and then reduced with Principal-Component-Analysis to three components and then renamed for the ease of reading as such:
