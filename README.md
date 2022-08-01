@@ -43,4 +43,4 @@ HVPlot:
 
 ## Conclusion
 
-Essentially from what the data had given us, is that all of the coins in that cluster that aren't at 0 mined are worthwhile investments.  As long as the coins mined is equal to or more than coins in supply it is a worthwhile investment. 
+From what the data had given us is, that all of the coins in that cluster that aren't at 0 mined are worthwhile investments.  As long as the coins mined is equal to or more than coins in supply, it is a fair investment to make. 
